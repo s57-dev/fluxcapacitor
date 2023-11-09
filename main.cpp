@@ -2,7 +2,6 @@
 #include <vector>
 #include <cstdlib>
 
-Error
 int main() {
     std::vector<std::string> quotes = {
             "Where we're going, we don't need roads.",
